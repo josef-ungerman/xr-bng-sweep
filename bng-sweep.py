@@ -25,7 +25,7 @@ box = {
     'device_type': 'cisco_xr',
     'ip':   'sbx-iosxr-mgmt.cisco.com',
     'username': 'admin',
-#    'password': '',
+    'password': '',
     'port' : 8181,
     'global_delay_factor': 4,
     'timeout': 600
